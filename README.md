@@ -12,9 +12,8 @@
 2.	Created the hidden layers and chose appropriate activation function.
 3.	Created an output layer with an appropriate activation function.
 4.	Compiled and trained the model.
-5.	Created a callback that saves the model's weights every 5 epochs.
-6.	Evaluated the model using the test data to determine the loss and accuracy.
-7.	Saved and exported your results to an HDF5 file, and name it AlphabetSoupCharity.h5.
+5.	Evaluated the model using the test data to determine the loss and accuracy.
+6.	Saved and exported the model to HDF5 file, and named it AlphabetSoupCharity.h5.
 
 # Optimize the Model
  Optimized model in order to achieve a target predictive accuracy higher than 75%.
