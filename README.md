@@ -16,4 +16,4 @@
 6.	Saved and exported the model to HDF5 file, and named it AlphabetSoupCharity.h5.
 
 # Optimize the Model
- Optimized model in order to achieve a target predictive accuracy higher than 75%.
+ Optimized model in order to achieve a target predictive accuracy higher than 72%.
